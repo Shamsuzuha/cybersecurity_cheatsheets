@@ -1,4 +1,4 @@
-# cybersecurity_cheatsheets
+# Cybersecurity_Cheatsheets
 Compilation of Cyber Security Cheat Sheets
 
 SOURCE:
